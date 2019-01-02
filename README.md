@@ -27,6 +27,9 @@ Keep using the API of your favorite Admob cordova plugin!
 
 ## Changelog ##
 
+#### Version 0.3.0:
+AdColony Android SDK Version: 3.3.6
+
 #### Version 0.0.2: 
 - AdColony-iOS-SDK v2.6.3 
 
